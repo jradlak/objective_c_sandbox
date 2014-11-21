@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>3D46554F-BF69-4628-8CA8-659B85C8B37C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Matchismo</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>1E1A3E4E49E84480699B3D8FE5DAEE48BBEC5C7B</key>
+		<string>https://github.com/jradlak/objective_c_sandbox.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Matchismo/Matchismo.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>1E1A3E4E49E84480699B3D8FE5DAEE48BBEC5C7B</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/jradlak/objective_c_sandbox.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>1E1A3E4E49E84480699B3D8FE5DAEE48BBEC5C7B</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>1E1A3E4E49E84480699B3D8FE5DAEE48BBEC5C7B</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Developer</string>
+		</dict>
+	</array>
+</dict>
+</plist>

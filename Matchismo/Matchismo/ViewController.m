@@ -38,9 +38,9 @@
     return _deck;
 }
     
--(Deck *) createDeck
+-(Deck *) createDeck // abstract
 {
-    return [[PlayingCardDeck alloc] init];
+    return nil;
 }
 
 -(CardMatchingGame *) newGame
