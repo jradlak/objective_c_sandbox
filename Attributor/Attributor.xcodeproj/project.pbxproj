@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		2258F3831A208DC90018768B /* TextStatsViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 2258F3821A208DC90018768B /* TextStatsViewController.m */; };
 		22C97E5E1A14EF8600F0C6EE /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 22C97E5D1A14EF8600F0C6EE /* main.m */; };
 		22C97E611A14EF8600F0C6EE /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 22C97E601A14EF8600F0C6EE /* AppDelegate.m */; };
 		22C97E641A14EF8600F0C6EE /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 22C97E631A14EF8600F0C6EE /* ViewController.m */; };
@@ -27,6 +28,8 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		2258F3811A208DC90018768B /* TextStatsViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = TextStatsViewController.h; sourceTree = "<group>"; };
+		2258F3821A208DC90018768B /* TextStatsViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = TextStatsViewController.m; sourceTree = "<group>"; };
 		22C97E581A14EF8600F0C6EE /* Attributor.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Attributor.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		22C97E5C1A14EF8600F0C6EE /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		22C97E5D1A14EF8600F0C6EE /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -81,6 +84,8 @@
 		22C97E5A1A14EF8600F0C6EE /* Attributor */ = {
 			isa = PBXGroup;
 			children = (
+				2258F3811A208DC90018768B /* TextStatsViewController.h */,
+				2258F3821A208DC90018768B /* TextStatsViewController.m */,
 				22C97E621A14EF8600F0C6EE /* ViewController.h */,
 				22C97E631A14EF8600F0C6EE /* ViewController.m */,
 				22C97E651A14EF8600F0C6EE /* Main.storyboard */,
@@ -222,6 +227,7 @@
 				22C97E641A14EF8600F0C6EE /* ViewController.m in Sources */,
 				22C97E611A14EF8600F0C6EE /* AppDelegate.m in Sources */,
 				22C97E5E1A14EF8600F0C6EE /* main.m in Sources */,
+				2258F3831A208DC90018768B /* TextStatsViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
