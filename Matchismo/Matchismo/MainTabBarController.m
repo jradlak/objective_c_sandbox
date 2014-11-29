@@ -16,7 +16,14 @@
 
 - (void)viewDidLoad {
     [super viewDidLoad];
-    // Do any additional setup after loading the view.
+    self.tabBar.barTintColor = [UIColor blackColor];
+    
+    UITabBarItem *item0 = [self.tabBar.items objectAtIndex:0];
+    item0.image = [[UIImage imageNamed:@"card_game"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
+
+    
+    UITabBarItem *item1 = [self.tabBar.items objectAtIndex:1];
+    item1.image = [[UIImage imageNamed:@"set_game"] imageWithRenderingMode:UIImageRenderingModeAlwaysOriginal];
 }
 
 - (void)didReceiveMemoryWarning {

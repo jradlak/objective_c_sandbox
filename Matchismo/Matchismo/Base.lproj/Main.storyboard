@@ -4,10 +4,10 @@
         <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6244"/>
     </dependencies>
     <scenes>
-        <!--Tab Bar Controller-->
+        <!--Main Tab Bar Controller-->
         <scene sceneID="qK2-nr-70I">
             <objects>
-                <tabBarController id="mnC-j5-oe8" sceneMemberID="viewController">
+                <tabBarController id="mnC-j5-oe8" customClass="MainTabBarController" sceneMemberID="viewController">
                     <nil key="simulatedBottomBarMetrics"/>
                     <tabBar key="tabBar" contentMode="scaleToFill" id="U2l-je-Tmi">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="49"/>
@@ -443,7 +443,7 @@
                     <view key="view" contentMode="scaleToFill" id="W4F-6K-iPZ">
                         <rect key="frame" x="0.0" y="0.0" width="320" height="568"/>
                         <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
-                        <color key="backgroundColor" white="1" alpha="1" colorSpace="calibratedWhite"/>
+                        <color key="backgroundColor" red="0.0" green="0.50196081399917603" blue="0.25098040699958801" alpha="1" colorSpace="calibratedRGB"/>
                     </view>
                     <tabBarItem key="tabBarItem" title="Item" id="OKA-B4-Fzn"/>
                 </viewController>

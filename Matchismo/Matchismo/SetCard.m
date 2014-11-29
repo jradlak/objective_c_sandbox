@@ -10,4 +10,10 @@
 
 @implementation SetCard
 
+- (int)match:(NSArray *)otherCards
+{
+    
+    return 0;
+}
+
 @end
